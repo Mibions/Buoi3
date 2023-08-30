@@ -1,1 +1,5 @@
 E:\LuuDuLieuSinhVien\2001216146_NguyenLeBaThanh\Buoi3\Buoi3\bin\Debug\Buoi3.exe.config
+E:\LuuDuLieuSinhVien\2001216146_NguyenLeBaThanh\Buoi3\Buoi3\bin\Debug\Buoi3.exe
+E:\LuuDuLieuSinhVien\2001216146_NguyenLeBaThanh\Buoi3\Buoi3\bin\Debug\Buoi3.pdb
+E:\LuuDuLieuSinhVien\2001216146_NguyenLeBaThanh\Buoi3\Buoi3\obj\Debug\Buoi3.exe
+E:\LuuDuLieuSinhVien\2001216146_NguyenLeBaThanh\Buoi3\Buoi3\obj\Debug\Buoi3.pdb
